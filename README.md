@@ -1,5 +1,14 @@
 # NPP_KSPlang
-Hosting an XML file for KSP config syntax. Works in Notepad++ and potentially other IDEs that allow XML style imports. Currently only available for NPP's default light theme.
+Hosting an XML file for KSP config syntax. Works in Notepad++ and potentially other IDEs that allow XML style imports. Currently it's only available for NPP's default light theme but you can customize for yourself by editing the hex values for `fgColor` and `bgColor` in the `<Styles> --> <WordsStyle>` nodes.
+The 8 `<Keywords>` nodes contain all the recorded KSP syntax things as folows:
+* (Root) Node Names
+* PartModule Names
+* Stock tech Tree Nodes
+* Community tech Tree Nodes
+* <Empty>
+* ModuleManager Passes
+* Resources
+* Key Names
 
 ## Supporting:
 * (Most of?) Stock
