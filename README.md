@@ -1,14 +1,14 @@
 # NPP_KSPlang
 Hosting an XML file for KSP config syntax. Works in Notepad++ and potentially other IDEs that allow XML style imports. Currently it's only available for NPP's default light theme but you can customize for yourself by editing the hex values for `fgColor` and `bgColor` in the `<Styles> --> <WordsStyle>` nodes.
 The 8 `<Keywords>` nodes contain all the recorded KSP syntax things as folows:
-* (Root) Node Names
+* Nodes
 * PartModule Names
 * Stock tech Tree Nodes
 * Community tech Tree Nodes
-* <Empty>
+* `none`
 * ModuleManager Passes
 * Resources
-* Key Names
+* Keys
 
 ## Dark Mode
 An alternate styles file now exists (from 0.36) for use with NPP's dark themes. Things to note: It only changes the text colors but you must change NPP's theme separately. Go to `Settings` > `Style Configurator` and choose **Black board** from the dropdown menu. if you choose another dark theme, hit the checkmark for `Enable global background color` then hit `Save & Close`.
