@@ -3,9 +3,9 @@ Hosting an XML file for KSP config syntax. Works in Notepad++ and potentially ot
 The 8 `<Keywords>` nodes contain all the recorded KSP syntax things as folows:
 * Nodes
 * PartModule Names
-* Stock tech Tree Nodes
-* Community tech Tree Nodes
-* `none`
+* Stock tech tree Nodes
+* Community Tech Tree Nodes
+* Prefab particles, prefab sounds, part categories, staging icons
 * ModuleManager Passes
 * Resources
 * Keys
@@ -18,6 +18,7 @@ An alternate styles file now exists (from 0.36) for use with NPP's dark themes. 
 * B9 Part Switch
 * KerbalKonstructs
 * RealPlume
+* Tweakscale
 
 ### In progress:
 ?
